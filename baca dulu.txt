@@ -1,0 +1,9 @@
+Sebelum menggunakan ada baiknya baca ini dulu gan
+
+1. Ganti nama foldernya menjadi "pengaduan".
+2. Buat Database yang bernama "pengaduan".
+3. import database yang ada di folder 'database/pengaduan.sql'.
+4. konfigurasi database di file 'database.php' yang ada di dalam folder 'application/config/database.php'
+5. enjoy
+
+Nb : semua password(termasuk admin/petugas/masyarakat) => '12345';
